@@ -1,0 +1,8 @@
+{
+    
+    "require": {
+        "fakerphp/faker": "^1.23",
+        "altorouter/altorouter": "^2.0",
+        "filp/whoops": "^2.15"
+    }
+}
